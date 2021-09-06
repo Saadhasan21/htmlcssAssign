@@ -1,4 +1,6 @@
 # htmlcssAssign
+resume page link https://saadhasan21.github.io/htmlcssAssign/
+
 The assignment was given on 3rd sept 2021 and scheduled to be submitted on 6th sept 2021 befor 5pm
 Assignment:
 Problem: Create a HTML page (just like a resume). Include a header that will contains your personal information like name, email, number and a profile image. Divide the space below header into two vertical parts, left hand side should contains all the programming skills, frameworks that you know and your expertise in it (assign numbers from 1 to 10). On the right‐hand side put all the projects that you have done with title, team size, challenges and description.

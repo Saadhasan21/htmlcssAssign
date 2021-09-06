@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    overflow-y: auto;
+    
+   
+}
+
+
+
+body{
+    border-style: solid ;
+    /* background-color:beige; */
+    height: 500px;
+    min-width: 300px;
+    max-width: 1600px;
+   
+
+}
+
+.flex-container1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+.flex-items{
+    height: 200px;
+    margin: auto;
+    
+}
+
+.flex-container2{
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    flex-wrap: wrap;
+    
+
+}
+
+.flex-item{
+   
+    margin: auto;
+    
+}
+
+body>div{
+    background-image: url(mech.jpg);
+}
